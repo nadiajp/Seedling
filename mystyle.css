@@ -1,0 +1,61 @@
+/*My Custom CSS*/
+
+body {
+    background-color: #FCF9EA;
+    padding-top: 25px;
+    
+}
+
+.row {
+    padding: 15px;
+    height: 300px;
+    width: 100%;
+    
+}
+
+h1 {
+    font-family: 'lust-script', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #31873F;
+    
+}
+
+h2 {
+    font-family: 'forma-djr-deck', sans-serif;
+    font-weight: 600;
+    font-size: 55px;
+    font-style: normal;
+    color: #5F5244;
+}
+
+h3 {
+    font-family: 'forma-djr-deck', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    font-style: normal;
+    color: #5F5244;
+}
+
+
+
+p {
+    font-family: 'forma-djr-deck', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    color: #593614;
+}
+
+p2 {
+    font-family: 'forma-djr-deck', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+}
+
+footer {
+    background-color: #593614;
+    line-height: 200px
+}
